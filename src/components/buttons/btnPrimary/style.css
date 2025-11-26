@@ -1,0 +1,9 @@
+@import url('../../../index.css');
+
+.btn-primary{
+    background-color:var(--color-dark);
+    padding: 12px 30px;
+    color:var(--color-white);
+    text-decoration: none;
+    border-radius: 15px 3px;
+}

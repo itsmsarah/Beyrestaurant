@@ -1,0 +1,10 @@
+@import url('../../../index.css');
+
+.btn-secondary{
+    background-color:var(--color-orange);
+     padding: 12px 30px;
+     color: var(--color-dark);
+     text-decoration: none;
+      border-radius: 15px 3px;
+                                                
+}

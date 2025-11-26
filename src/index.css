@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --color-orange:#EA6D27;
+  --color-white:#FFFFFF;
+  --color-dark:#101821;
+  --color-gray:#5C6574;
+
+  --font-size-h1:60px;
+  --font-size-h2:48px;
+  --font-size-h3:28px;
+  --font-size-h4:22px;
+  --font-size-button: 20px;
+  --font-size-body: 16px;
+
+  --font-family-title:"David Libre", serif ;
+  --font-family-body:"Inter", sans-serif ;
+
+}

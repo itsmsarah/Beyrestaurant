@@ -1,0 +1,40 @@
+@import url('../../../index.css');
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin-bottom: 60px;
+}
+main img{
+    width: 500px;
+    height: 500px;
+}
+.content-main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.content-main h1{
+    font-size: 55px;
+    width: 500px;
+
+}
+.content-main p{
+ width: 500px;
+}
+.content-main span{
+    color: #EA6D27;
+}
+.container-btns{
+    display: flex;
+    gap: 20px;
+}
+.btn-primary{
+    background-color: #101821;
+    padding: 12px 30px;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 15px 3px;
+}
+
