@@ -1,9 +1,9 @@
 import { Card } from "../../cardsDiferenciais"
 import "./style.css"
-import imgTomato from '../../assets/images/tomato.svg'
-import imgChef from '../../assets/images/icon-chef.svg'
-import imgCalendar from '../../assets/images/icon-calendar.svg'
-import imgAmbient from '../../assets/images/icon-ambient.svg'
+import imgTomato from '../../../assets/images/tomato.svg'
+import imgChef from '../../../assets/images/icon-chef.svg'
+import imgCalendar from '../../../assets/images/icon-calendar.svg'
+import imgAmbient from '../../../assets/images/icon-ambient.svg'
 
 export const Diferencias =()=>{
     return(

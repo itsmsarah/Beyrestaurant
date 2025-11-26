@@ -2,7 +2,8 @@
 import { Header } from "./components/layouts/header"
 import { Main } from "./components/layouts/main"
 import { Mestre } from "./components/layouts/sectionMestre"
-import { Diferencias } from "./components/sectionDiferencias"
+import { PratosDestaque } from "./components/layouts/sectionPratos"
+import { Diferencias } from "./components/layouts/sectionDiferencias"
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Main/>
       <Diferencias/>
       <Mestre/>
+      <PratosDestaque/>
     </>
   )
 }
