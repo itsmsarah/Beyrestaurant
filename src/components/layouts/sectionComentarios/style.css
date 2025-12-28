@@ -1,0 +1,22 @@
+@import url('../../../index.css');
+
+
+.section-comentarios{
+    padding: 60px 20px;
+}
+.section-comentarios h2{
+    color: var(--color-dark);
+    font-family: var( --font-family-title);
+    font-size: var( --font-size-h2);
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+.section-comentarios h2 span{
+    color: var(--color-orange);
+}
+.comentarios-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
