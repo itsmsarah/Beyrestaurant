@@ -1,0 +1,61 @@
+@import url('../../../index.css');
+
+
+footer{
+    padding: 60px 100px;
+    display: flex;
+    gap: 200px;
+}
+.copyright-container{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.copyright-container img{
+    width: 256px;
+    height: 124px;
+}
+.icons-container {
+    display: flex;
+    gap: 15px;
+    list-style: none;  }
+
+.icons-container li img{
+    width: 34px;
+    height: 35px;
+}
+.footer-content{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding: 60px 0px;
+}
+
+
+.menu-alternativo-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.menu-alternativo-container h2{
+    font-size: var(--font-size-h3);
+    font-family: var(--font-family-title);
+}
+.menu-links{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.menu-links li a {
+    text-decoration: none;
+    font-size: var(--font-size-body);
+    font-family: var(--font-family-body);
+    color: var(--color-dark);
+}
+.endereco-container, .contato-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+    
+}

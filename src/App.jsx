@@ -6,6 +6,7 @@ import { PratosDestaque } from "./components/layouts/sectionPratos"
 import { Diferencias } from "./components/layouts/sectionDiferencias"
 import { SectionComentarios } from "./components/layouts/sectionComentarios"
 import { Mapa } from "./components/layouts/sectionMapa"
+import { Footer } from "./components/layouts/footer"
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <PratosDestaque/>
       <SectionComentarios/>
       <Mapa/>
+      <Footer/>
     
     </>
   )
