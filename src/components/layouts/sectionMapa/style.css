@@ -1,0 +1,10 @@
+@import url('../../../index.css');
+
+.section-mapa{
+background-color: #ea6f274a;
+padding: 60px;
+}
+.section-mapa img{
+    width: 1250px;
+    height: 480px;
+}

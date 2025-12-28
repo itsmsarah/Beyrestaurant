@@ -5,6 +5,7 @@ import { Mestre } from "./components/layouts/sectionMestre"
 import { PratosDestaque } from "./components/layouts/sectionPratos"
 import { Diferencias } from "./components/layouts/sectionDiferencias"
 import { SectionComentarios } from "./components/layouts/sectionComentarios"
+import { Mapa } from "./components/layouts/sectionMapa"
 
 
 
@@ -19,6 +20,7 @@ function App() {
       <Mestre/>
       <PratosDestaque/>
       <SectionComentarios/>
+      <Mapa/>
     
     </>
   )
